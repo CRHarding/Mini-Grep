@@ -15,5 +15,5 @@ fn main() {
         process::exit(1);
     }
 
-    println!("I am doing something!");
+    println!("Do something else!");
 }
